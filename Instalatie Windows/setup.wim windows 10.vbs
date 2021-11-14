@@ -1,0 +1,8 @@
+X=MsgBox("Opening setup.wim",0+64,"WINATINSTALL.exe") 
+X=MsgBox("Please Reboot Your System and open this again and skip all this windows ",0+16,"WINATINSTALL.exe") 
+X=MsgBox("Welcome to Windows 10 21H2 Setup!",0+64,"setup.wim") 
+X=MsgBox("Please Wait Untill Windows 10 is installing",0+64,"Please Wait(setup.wim)") 
+X=MsgBox("Please Wait Untill Windows 10 is installing",0+64,"Please Wait(setup.wim)") 
+X=MsgBox("Please Wait Untill Windows 10 is installing",0+64,"Please Wait(setup.wim)") 
+X=MsgBox("Please Wait Untill Windows 10 is installing",0+64,"Please Wait(setup.wim)")
+X=MsgBox("The Install Has been Completed!The OBEE Is making in your system",0+64,"Complete Install!")  
